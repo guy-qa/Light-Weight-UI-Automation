@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a722d36-383f-484a-a60e-4459f8abdadf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>obj_webdriver</find>
+      <find>type</find>
+      <find>EC.</find>
+      <find>url</find>
+      <find>write_answer</find>
+      <find>clark</find>
+      <find>given</find>
+    </findStrings>
+  </component>
+  <component name="JupyterTrust" id="00b9fc2b-2501-413e-b5f4-56ae9afce310" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1034" />
+  </component>
+  <component name="ProjectId" id="1fitSNOkVlXZ8R1PQF00lux9BNo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ClarkWebApp" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ClarkWebApp" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anum_zaib\Desktop\Muhammad Umair - QA Challenge Solution\Dalia - QA Challenge\Automation Challenge\DaliaSurvey\features\steps" />
+      <recent name="C:\Users\anum_zaib\Desktop\Muhammad Umair - QA Challenge Solution\Dalia - QA Challenge\Automation Challenge\DaliaSurvey\features\webdrivers" />
+      <recent name="C:\Users\anum_zaib\Desktop\Muhammad Umair - QA Challenge Solution\Dalia - QA Challenge\Automation Challenge\DaliaSurvey\features\business_logic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anum_zaib\Desktop\Muhammad Umair - QA Challenge Solution\Dalia - QA Challenge\Automation Challenge\DaliaSurvey\features" />
+      <recent name="C:\Users\muhammad_umair\PycharmProjects\ClarkWebApp\features" />
+      <recent name="C:\Users\muhammad_umair\PycharmProjects\ClarkWebApp\config" />
+      <recent name="C:\Users\muhammad_umair\PycharmProjects\ClarkWebApp\browsers\webdrivers" />
+      <recent name="C:\Users\muhammad_umair\PycharmProjects\ClarkWebApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dalia_survey_steps">
+    <configuration name="clarkapp_steps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DaliaSurvey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name=" APP_NAMEA" value="behave" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/behave/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dalia_survey_steps" type="PythonConfigurationType" factoryName="Python">
+      <module name="DaliaSurvey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="APP_NAMEA" value="behave" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/dalia_survey_steps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for yuno_surveys_ui_logic.YunoSurveysUI" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="DaliaSurvey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/business_logic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003dTestReports\\survey_test_latest_report.html&quot;" />
+      <option name="_new_target" value="&quot;yuno_surveys_ui_logic.YunoSurveysUI&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.dalia_survey_steps" />
+      <item itemvalue="Python.clarkapp_steps" />
+      <item itemvalue="Python tests.pytest for yuno_surveys_ui_logic.YunoSurveysUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clarkapp_steps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a722d36-383f-484a-a60e-4459f8abdadf" name="Default Changelist" comment="" />
+      <created>1562173154464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562173154464</updated>
+      <workItem from="1596712741515" duration="412000" />
+      <workItem from="1596713271738" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_yuno_surveys_ui_logic_YunoSurveysUI - 2019.12.08 at 23h 33m 31s.xml">
+      <configuration name="pytest for yuno_surveys_ui_logic.YunoSurveysUI" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_yuno_surveys_ui_logic_YunoSurveysUI - 2019.12.09 at 00h 45m 49s.xml">
+      <configuration name="pytest for yuno_surveys_ui_logic.YunoSurveysUI" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>os.path.abspath(os.curdir)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>popup_modal_close_button.click()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>popup_modal_close_button.switch_to_active_element().click()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>context.driver.execute_script(&quot;arguments[0].click&quot;, popup_modal_close_button)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>context.driver.execute_script(&quot;arguments[0].click;&quot;, popup_modal_close_button)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>context.driver.execute_script(&quot;arguments[0].click();&quot;, popup_modal_close_button)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>popup_modal_close_button = popup_modal.find_element_by_id(&quot;Line-Copy-21&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>context.driver.execute_script(&quot;arguments[0].click:&quot;, popup_modal_close_button)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>popup_modal_close_button.send_keys(Keys.ENTER)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
